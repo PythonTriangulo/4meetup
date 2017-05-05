@@ -1,0 +1,5 @@
+https://docs.python.org/3/c-api/typeobj.html
+https://docs.python.org/3/c-api/structures.html#c.PyMemberDef
+https://docs.python.org/3/c-api/unicode.html#c.PyUnicode_FromFormat
+https://docs.python.org/3/c-api/object.html#c.PyObject_Type
+https://docs.python.org/3/c-api/refcounting.html

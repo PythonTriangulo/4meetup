@@ -1,0 +1,3 @@
+https://docs.python.org/3/c-api/typeobj.html
+https://docs.python.org/3/c-api/type.html#c.PyType_Ready
+https://docs.python.org/3/c-api/module.html#c.PyModule_AddObject

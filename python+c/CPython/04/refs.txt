@@ -1,0 +1,2 @@
+https://docs.python.org/3/c-api/module.html#c.PyModule_Create
+https://docs.python.org/3/c-api/module.html#c.PyModuleDef

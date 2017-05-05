@@ -1,0 +1,4 @@
+https://docs.python.org/3/c-api/import.html#c.PyImport_ImportModule
+https://docs.python.org/3/c-api/init.html#c.Py_Initialize
+https://docs.python.org/3/c-api/init.html#c.Py_Finalize
+https://docs.python.org/3/c-api/refcounting.html#c.Py_XDECREF
