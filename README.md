@@ -8,6 +8,9 @@ Amanhã teremos o meetup. Para os que forem levar computador para seguir as apre
 Os arquivos de exemplo estão nesse repositório:
 https://github.com/PythonTriangulo/4meetup
 
+A apresentação pode ser baixada aqui:
+https://github.com/PythonTriangulo/4meetup/raw/master/python%2Bc/apresentacao.pdf
+
 Eles também podem ser baixados aqui:
 https://github.com/PythonTriangulo/4meetup/raw/master/python%2Bc/CPython.zip
 
