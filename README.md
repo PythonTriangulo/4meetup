@@ -28,6 +28,8 @@ Com yum (Centos, Redhat, Fedora...):
 
 ## Scraping HTML WEB Pages com LXML
 
+*SLIDES: http://slides.com/allandaemon/lxml*
+
 * a biblioteca `lxml`
 * Muito recomendado: `Ipython` (https://ipython.org/)
 * Bonus: `Selenium`
