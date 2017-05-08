@@ -1,7 +1,4 @@
-Ola.
-
-Amanhã teremos o meetup. Para os que forem levar computador para seguir as apresentações com mão na massa, aqui está os requerimentos para instalar, para que possam faze-lo antes já que na UFU a internet não funciona.
-
+Informações a respeito do 4º Meetup da Comunidade Python Triângulo
 
 ## Integração Python + C
 
@@ -31,7 +28,7 @@ Com yum (Centos, Redhat, Fedora...):
 
 ## Scraping HTML WEB Pages com LXML
 
-*SLIDES: http://slides.com/allandaemon/lxml*
+**SLIDES: http://slides.com/allandaemon/lxml**
 
 * a biblioteca `lxml`
 * Muito recomendado: `Ipython` (https://ipython.org/)
